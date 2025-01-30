@@ -1,13 +1,13 @@
 
 # Injection SQL 
 
-Ce guie a pour but la détection, la mise en place et l'exploitation d'une failel de type injection SQL **Ce guide n'existe que dans un but purement éducatif**
+Ce guide a pour but la détection, la mise en place et l'exploitation d'une faille de type injection SQL **Ce guide n'existe que dans un but purement éducatif**
 
 ---
 
 ## Prerequisites
 
-1. **Docker Installé**: Veuilelz vérifiez que docker est installé sur votre système
+1. **Docker Installé**: Veuillez vérifiez que docker est installé sur votre système
    - Check Docker version:
      ```bash
      docker --version
